@@ -1,0 +1,21 @@
+name: Get a license (early access)
+description: Request a Pro, Studio or Enterprise license
+labels: [license]
+body:
+  - type: markdown
+    attributes:
+      value: "Issues are public. **Do not post your email address or license keys here.** We will reply with how to receive your key privately."
+  - type: dropdown
+    id: plan
+    attributes: { label: Plan, options: ["Pro ($9/month)", "Studio ($29/month)", "Enterprise"] }
+    validations: { required: true }
+  - type: textarea
+    id: use
+    attributes: { label: How will you use Mimicore?, description: "Personal, streaming, content creation, business..." }
+  - type: checkboxes
+    id: terms
+    attributes:
+      label: Terms
+      options:
+        - label: I will only clone my own voice or voices I have permission to use, and I accept the Acceptable Use Policy.
+          required: true

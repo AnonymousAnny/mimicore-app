@@ -1,0 +1,10 @@
+name: Report misuse
+description: Report a cloned voice being used to impersonate, deceive or harass
+labels: [abuse]
+body:
+  - type: markdown
+    attributes: { value: "Do not include private information about third parties. For urgent safety issues contact local authorities." }
+  - type: textarea
+    id: report
+    attributes: { label: What happened?, description: "Where it was used, when, and any links." }
+    validations: { required: true }

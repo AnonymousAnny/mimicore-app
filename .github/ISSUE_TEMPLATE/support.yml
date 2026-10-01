@@ -1,0 +1,17 @@
+name: Support / bug report
+description: Something is not working
+labels: [support]
+body:
+  - type: textarea
+    id: what
+    attributes: { label: What happened?, description: "What you did, what you expected, what happened instead." }
+    validations: { required: true }
+  - type: input
+    id: version
+    attributes: { label: Mimicore version, placeholder: "0.1.0" }
+  - type: textarea
+    id: system
+    attributes: { label: Windows version and graphics card }
+  - type: textarea
+    id: log
+    attributes: { label: Log (optional), description: "%LOCALAPPDATA%\Mimicore\logs\mimicore.log — remove anything private.", render: text }
