@@ -1,0 +1,2 @@
+:HL["/mimicore-app/_next/static/chunks/0v-erq-nvh9zl.css","style"]
+0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"legal","param":null,"prefetchHints":4192,"slots":{"children":{"name":"doc","param":{"type":"d","key":"privacy","siblings":[]},"prefetchHints":4192,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}}}},"staleTime":300,"buildId":"_BlbWAg0YSZqrpUD0K5qF"}

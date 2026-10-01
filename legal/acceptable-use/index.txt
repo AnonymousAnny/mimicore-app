@@ -1,0 +1,54 @@
+1:"$Sreact.fragment"
+2:I[22016,["/mimicore-app/_next/static/chunks/1mpnoxox0-4cg.js"],""]
+3:I[39756,["/mimicore-app/_next/static/chunks/1mpnoxox0-4cg.js"],"default"]
+4:I[37457,["/mimicore-app/_next/static/chunks/1mpnoxox0-4cg.js"],"default"]
+6:I[97367,["/mimicore-app/_next/static/chunks/1mpnoxox0-4cg.js"],"OutletBoundary"]
+7:"$Sreact.suspense"
+a:I[97367,["/mimicore-app/_next/static/chunks/1mpnoxox0-4cg.js"],"ViewportBoundary"]
+c:I[97367,["/mimicore-app/_next/static/chunks/1mpnoxox0-4cg.js"],"MetadataBoundary"]
+e:I[68027,["/mimicore-app/_next/static/chunks/1mpnoxox0-4cg.js"],"default",1]
+:HL["/mimicore-app/_next/static/chunks/0v-erq-nvh9zl.css","style"]
+9:X
+0:{"P":null,"c":["","legal","acceptable-use",""],"q":"","i":false,"f":[[["",{"children":["legal",{"children":[["doc","acceptable-use","d",[]],{"children":["__PAGE__",{},"$undefined","$undefined",4608]},"$undefined","$undefined",4608]},"$undefined","$undefined",4608]},"$undefined","$undefined",4624],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/mimicore-app/_next/static/chunks/0v-erq-nvh9zl.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/mimicore-app/_next/static/chunks/1mpnoxox0-4cg.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"children":[["$","header",null,{"className":"nav","children":[["$","$L2",null,{"href":"/","className":"brand","children":["Mimicore",["$","span",null,{"children":"™"}]]}],["$","nav",null,{"children":[["$","a",null,{"href":"#features","children":"Features"}],["$","a",null,{"href":"#models","children":"Models"}],["$","a",null,{"href":"#pricing","children":"Pricing"}],["$","a",null,{"href":"#download","className":"cta","children":"Download"}]]}]]}],["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}],["$","footer",null,{"children":["© 2026 Ribanix Labs · ",["$","$L2",null,{"href":"/legal/acceptable-use/","children":"Acceptable use"}]," · ",["$","$L2",null,{"href":"/legal/eula/","children":"License"}]," · ",["$","$L2",null,{"href":"/legal/privacy/","children":"Privacy"}]," · ",["$","a",null,{"href":"https://github.com/AnonymousAnny/mimicore-app/issues/new?template=support.yml","children":"Support"}]]}]]}]}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":["$L5",null,["$","$L6",null,{"children":["$","$7",null,{"name":"Next.MetadataOutlet","children":"$@8"}]}]]}],{},null,false,null]},null,false,"$9"]},null,false,"$9"]},null,false,null],["$","$1","h",{"children":[null,["$","$La",null,{"children":"$Lb"}],["$","div",null,{"hidden":true,"children":["$","$Lc",null,{"children":["$","$7",null,{"name":"Next.Metadata","children":"$Ld"}]}]}],null]}],false]],"m":"$undefined","G":["$e",[["$","link","0",{"rel":"stylesheet","href":"/mimicore-app/_next/static/chunks/0v-erq-nvh9zl.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]]],"S":true,"h":null,"r":"$undefined","s":"$undefined","a":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"_BlbWAg0YSZqrpUD0K5qF"}
+9:C
+f:T93d,VOICEMIMICRY ZERO - ACCEPTABLE USE POLICY
+Version 2026-10-01
+
+Mimicore can copy a voice from about ten seconds of speech. That makes it easy to misuse, so these rules
+are part of the license. Breaking them ends your right to use the software.
+
+ALWAYS
+- Clone only your own voice, or the voice of a person who has given you clear, informed permission for this
+  specific purpose. Written permission is strongly recommended.
+- Record the speaker's spoken consent statement in the app when you create a voice (the app requires it).
+- Tell people when speech is AI-generated whenever they could otherwise be misled - in calls, streams, videos,
+  podcasts, messages and published audio.
+- Keep the "AI-generated" marking that the app writes into saved files.
+
+NEVER use the software to
+1. Impersonate a real person without their permission - including public figures, politicians, celebrities,
+   family members, colleagues, customers, officials or support agents.
+2. Commit or assist fraud, scams, phishing, extortion, social engineering, or to get past voice-based
+   authentication (banks, phone systems, voice locks).
+3. Put words in a real person's mouth: generate text-to-speech of statements a real person did not make and
+   present them, or allow them to be taken, as genuine.
+4. Make robocalls or other automated or mass calls.
+5. Create election, political or news deepfakes, or any content meant to mislead the public.
+6. Create sexual or intimate content with a real person's voice without their consent, or any content
+   involving minors.
+7. Clone the voice of a child.
+8. Harass, threaten, bully, defame or intimidate anyone.
+9. Infringe copyright, personality, publicity or privacy rights - for example releasing songs or audiobooks in
+   a performer's cloned voice without permission.
+10. Clone a voice taken from calls, videos, broadcasts or other recordings of someone who has not agreed.
+11. Break any law that applies to you. Examples include India's Information Technology Act (sections 66C and
+    66D) and the IT Rules on synthetically generated information, US FCC rules on AI voices in robocalls,
+    state voice-likeness laws such as Tennessee's ELVIS Act, and the EU AI Act transparency duties for
+    synthetic audio.
+
+REPORTING MISUSE
+Report suspected misuse to https://github.com/AnonymousAnny/mimicore-app/issues/new?template=abuse.yml.
+5:["$","main",null,{"children":["$","pre",null,{"style":{"whiteSpace":"pre-wrap","padding":"40px 0","fontFamily":"inherit"},"children":"$f"}]}]
+b:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+8:null
+d:[["$","title","0",{"children":"Mimicore — Clone. Change. Create."}],["$","meta","1",{"name":"description","content":"Offline AI voice platform by Ribanix Labs: real-time voice changer, instant voice cloning and text-to-speech that run entirely on your PC."}]]
