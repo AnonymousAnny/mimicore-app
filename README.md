@@ -1,17 +1,47 @@
-# Mimicore™ by Ribanix Labs — Clone. Change. Create.
+<div align="center">
 
-**AI voice platform for Windows.** Real-time voice changer, 28 free voice effects, instant voice cloning from 10–20 seconds
-of speech, RVC v2 voice training, and text-to-speech in 23 languages. All voice processing runs on your own PC: your
-recordings and audio never leave your device.
+# Mimicore™ — Clone. Change. Create.
 
-**[Website](https://ribanixlabs.github.io/mimicore-app/) · [Download for Windows](https://github.com/ribanixlabs/mimicore-app/releases/latest) · [Account & Pro](https://ribanixlabs.github.io/mimicore-app/account/) · Support: ribanixlabs@zohomail.in · [Report a bug](https://github.com/ribanixlabs/mimicore-app/issues/new?template=support.yml)**
+**AI voice studio for Windows by Ribanix Labs.** Live voice changer · instant voice cloning · your own trained voices ·
+28 free voice effects · text-to-speech in 23 languages. All voice processing runs on your PC.
 
-- **Plans:** every feature on both. Free: 30 minutes a day (plus a daily bonus on the website). Pro: unlimited, ₹99/month.
-  Voice effects and voice training use no minutes.
-- **Quality tiers:** Fast (gaming / low-spec PCs), Balanced, Studio. Pick one on first run; switch any time.
-- **Voice training:** optional add-on (2.5 GB), NVIDIA GTX 16 / RTX 20 series or newer with 4 GB+.
-- **Virtual microphone:** one-click VB-CABLE setup in the app to speak as your voice in Discord, Zoom, OBS or games.
-- Windows 10/11 64-bit; DirectX 12 graphics card recommended (NVIDIA, AMD or Intel). The app updates itself.
-- Clone only your own voice or voices you have permission to use. See the [Acceptable Use Policy](https://ribanixlabs.github.io/mimicore-app/legal/acceptable-use/).
+**[⬇ Download for Windows](https://github.com/ribanixlabs/mimicore-app/releases/latest/download/Mimicore-setup.exe)** ·
+[Website](https://ribanixlabs.github.io/mimicore-app/) ·
+[Account & Pro](https://ribanixlabs.github.io/mimicore-app/account/) ·
+[Release notes](https://github.com/ribanixlabs/mimicore-app/releases) ·
+[Report a bug](https://github.com/ribanixlabs/mimicore-app/issues/new?template=support.yml)
 
-This repository hosts releases, updates, model downloads and support for Mimicore. The source code is private.
+</div>
+
+## Features
+
+| | |
+|---|---|
+| 🎙️ **Live voice changer** | Talk in your voices in Discord, Zoom, OBS and games. Trained voices are auto-tuned to your PC (~0.3 s delay). One-click virtual microphone (VB-CABLE) setup. |
+| ⚡ **Instant voice cloning** | A new voice from 10–20 seconds of speech. Low / Medium / High quality, all real-time. |
+| 🧠 **Train your own voice** | RVC v2 training on your NVIDIA GPU from 10–30 minutes of recordings; the best checkpoint is picked automatically. |
+| 🎛️ **28 voice effects** | Robot, demon, chipmunk, radio, cave and more — free, instant, on any PC, no download. |
+| 🗣️ **Text to speech** | Speak typed text live into calls or save it to files, in any of your voices. 23 languages, emotion control. |
+| 🔒 **Private by design** | Recording, cloning, training and conversion run locally. Your audio never leaves your device. |
+
+## Plans
+
+**Free** — every feature, 30 minutes of voice time a day plus a daily bonus on the website. Effects and training never
+use minutes. **Pro** — unlimited, ₹99/month (UPI autopay, cards, netbanking; cancel any time).
+
+## Requirements
+
+Windows 10/11 64-bit · DirectX 12 graphics card recommended (NVIDIA, AMD or Intel; effects run on any PC) · voice
+training needs an NVIDIA GTX 16 / RTX 20 series or newer with 4 GB+. Pick a quality tier on first run (Fast 1.1 GB,
+Balanced 1.3 GB, Studio 1.8 GB). The app updates itself.
+
+## Responsible use
+
+Clone only your own voice or voices you have permission to use. Mimicore records spoken consent and marks generated
+files as AI-generated. See the [Acceptable Use Policy](https://ribanixlabs.github.io/mimicore-app/legal/acceptable-use/),
+[License](https://ribanixlabs.github.io/mimicore-app/legal/eula/) and [Privacy Policy](https://ribanixlabs.github.io/mimicore-app/legal/privacy/).
+
+---
+
+This repository hosts releases, automatic updates, model downloads and support for Mimicore. The source code is
+private. Support: ribanixlabs@zohomail.in
