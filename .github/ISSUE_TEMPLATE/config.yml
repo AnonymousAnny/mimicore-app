@@ -3,9 +3,9 @@ contact_links:
   - name: Website
     url: https://ribanixlabs.github.io/mimicore-app/
     about: Features, plans and download
-  - name: Buy a license
-    url: https://ribanixlabs.github.io/mimicore-app/#pricing
-    about: Pro and Studio subscriptions; the key arrives by email
-  - name: Email support (billing, licenses, private matters)
+  - name: Account, credits and Pro
+    url: https://ribanixlabs.github.io/mimicore-app/account/
+    about: Sign in, check your minutes, claim the daily bonus, go Pro (₹99/month)
+  - name: Email support (billing, account, private matters)
     url: mailto:ribanixlabs@zohomail.in
     about: ribanixlabs@zohomail.in
