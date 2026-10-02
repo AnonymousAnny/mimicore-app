@@ -1,13 +1,17 @@
 # Mimicore™ by Ribanix Labs — Clone. Change. Create.
 
-**Offline AI voice platform for Windows.** Real-time voice changer, instant voice cloning from 10–20 seconds of speech,
-text-to-speech in 23 languages and file conversion — all running on your own PC. Your voice never leaves your device.
+**AI voice platform for Windows.** Real-time voice changer, 28 free voice effects, instant voice cloning from 10–20 seconds
+of speech, RVC v2 voice training, and text-to-speech in 23 languages. All voice processing runs on your own PC: your
+recordings and audio never leave your device.
 
-**[Website](https://ribanixlabs.github.io/mimicore-app/) · [Download for Windows](https://github.com/ribanixlabs/mimicore-app/releases/latest) · [Buy Pro](https://ribanixlabs.lemonsqueezy.com/checkout/buy/2cbafe85-c809-4123-b711-543e66ee2992) · [Buy Studio](https://ribanixlabs.lemonsqueezy.com/checkout/buy/eff65168-73f2-478b-b514-fa50c608cbb8) · Support: ribanixlabs@zohomail.in · [Report a bug](https://github.com/ribanixlabs/mimicore-app/issues/new?template=support.yml)**
+**[Website](https://ribanixlabs.github.io/mimicore-app/) · [Download for Windows](https://github.com/ribanixlabs/mimicore-app/releases/latest) · [Account & Pro](https://ribanixlabs.github.io/mimicore-app/account/) · Support: ribanixlabs@zohomail.in · [Report a bug](https://github.com/ribanixlabs/mimicore-app/issues/new?template=support.yml)**
 
-- Windows 10/11, DirectX 12 graphics card recommended (NVIDIA, AMD or Intel). 18 MB installer; voice models download on first run.
-- Use a free virtual cable (VB-CABLE) to speak as your voice in Discord, Zoom, Teams or OBS.
-- Free plan: live voice changer, 2 instant voices, live text-to-speech. Pro/Studio unlock everything (see the website).
-- Clone only your own voice or voices you have permission to use. See the Acceptable Use Policy shown in the app.
+- **Plans:** every feature on both. Free: 30 minutes a day (plus a daily bonus on the website). Pro: unlimited, ₹99/month.
+  Voice effects and voice training use no minutes.
+- **Quality tiers:** Fast (gaming / low-spec PCs), Balanced, Studio. Pick one on first run; switch any time.
+- **Voice training:** optional add-on (2.5 GB), NVIDIA GTX 16 / RTX 20 series or newer with 4 GB+.
+- **Virtual microphone:** one-click VB-CABLE setup in the app to speak as your voice in Discord, Zoom, OBS or games.
+- Windows 10/11 64-bit; DirectX 12 graphics card recommended (NVIDIA, AMD or Intel). The app updates itself.
+- Clone only your own voice or voices you have permission to use. See the [Acceptable Use Policy](https://ribanixlabs.github.io/mimicore-app/legal/acceptable-use/).
 
 This repository hosts releases, updates, model downloads and support for Mimicore. The source code is private.
