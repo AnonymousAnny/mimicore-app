@@ -1,20 +1,26 @@
 1:"$Sreact.fragment"
-3:I[97367,["/mimicore-app/_next/static/chunks/1mpnoxox0-4cg.js"],"OutletBoundary"]
-4:"$Sreact.suspense"
-8:I[97367,["/mimicore-app/_next/static/chunks/1mpnoxox0-4cg.js"],"ViewportBoundary"]
-2:Tb97,VOICEMIMICRY ZERO - END USER LICENSE AGREEMENT
-Version 2026-10-01
+2:Tf5d,MIMICORE - END USER LICENSE AGREEMENT
+Version 2026-10-03
 
 By installing or using Mimicore (the "Software") you agree to this agreement. If you do not agree, do not
 install or use the Software.
 
 1. WHO WE ARE
-The Software is free, non-commercial software published by Ribanix Labs, Ribanix Labs.
+The Software is published by Ribanix Labs.
 Contact: ribanixlabs@zohomail.in. Misuse reports: ribanixlabs@zohomail.in or https://github.com/AnonymousAnny/mimicore-app/issues/new?template=abuse.yml.
 
-2. LICENSE
-You receive a free, personal, non-exclusive, non-transferable license to use the Software for lawful,
-non-commercial purposes on devices you own or control. You may not sell, rent, lease or sublicense it.
+2. LICENSE, ACCOUNTS AND PLANS
+You receive a personal, non-exclusive, non-transferable license to use the Software for lawful purposes on
+devices you own or control. You may not sell, rent, lease or sublicense it.
+Using the Software requires a free Mimicore account. Usage is measured in credits: 1 credit = 1 minute of live
+voice conversion or of generated or converted audio (each started minute counts). Free accounts receive a daily
+allowance of credits, which does not carry over, and may earn extra credits on the Mimicore website (for example
+by watching ads or claiming a daily bonus). Credits have no cash value and cannot be sold or transferred. Pro is a
+monthly subscription (currently INR 99/month, billed by Razorpay) with unlimited usage; you can cancel at any time
+and keep Pro until the end of the paid period. Fees are non-refundable except where the law requires otherwise.
+Every feature is available on both plans. We may change allowances and prices with notice on the website;
+price changes apply from your next billing period. Creating several accounts to collect extra free credits, or
+tampering with the credit system, is not allowed and may lead to account closure.
 
 3. YOUR RESPONSIBILITIES
 a. You must be 18 or older.
@@ -30,13 +36,14 @@ f. You alone are responsible for the audio you create and how you use it, includ
 4. THIRD-PARTY COMPONENTS
 The Software includes third-party components listed in THIRD_PARTY_NOTICES, used under their own licenses.
 Nothing in this agreement limits your rights under those licenses. In particular:
-- The voice model is Chatterbox-Turbo by Resemble AI, used under the MIT license. Resemble AI does not
-  endorse or support this Software.
+- The voice models are Chatterbox (Turbo and Multilingual) by Resemble AI and RVC v2 networks, used under
+  the MIT license. Resemble AI does not endorse or support this Software.
 - Microsoft ONNX Runtime (MIT) and DirectML (Microsoft software license terms) are included for use by the
   Software.
 
 5. YOUR DATA
-Voice processing happens on your device. See the Privacy Policy.
+Voice processing happens on your device. Your account and credit usage are stored on our servers. See the
+Privacy Policy.
 
 6. NO WARRANTY
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND. Voice cloning and conversion can be
@@ -56,27 +63,30 @@ If these terms change materially, the Software will ask you to accept the new ve
 10. GOVERNING LAW
 This agreement is governed by the laws of India and the courts of India have jurisdiction, without prejudice
 to any mandatory consumer protections in your country.
-7:X
-e:X
-e:C
-0:{"buildId":"iWY1VzNq4DfSAmlMlAmfX","data":[{"rsc":["$","$1","c",{"children":[["$","main",null,{"children":["$","pre",null,{"style":{"whiteSpace":"pre-wrap","padding":"40px 0","fontFamily":"inherit"},"children":"$2"}]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"isPartial":"$@6","staleTime":"$7","varyParams":null},{"rsc":["$","$1","h",{"children":[null,["$","$L8",null,{"children":"$L9"}],"$La",null]}],"isPartial":"$@b","staleTime":"$7","varyParams":null},{"rsc":"$Lc","isPartial":"$@d","staleTime":"$7","varyParams":"$e"},{"rsc":"$Lf","isPartial":"$@10","staleTime":"$7","varyParams":"$e"},{"rsc":"$L11","isPartial":"$@12","staleTime":"$7","varyParams":null}],"isUpgradeableISRFallback":false,"a":"$@13","rootVaryParams":null,"needsRuntimeRequest":"$@14"}
+5:X
+a:X
+a:C
+0:{"buildId":"zgr6bQkrzY07HY0c02Fav","data":[{"rsc":["$","$1","c",{"children":[["$","main",null,{"children":["$","pre",null,{"style":{"whiteSpace":"pre-wrap","padding":"40px 0","fontFamily":"inherit"},"children":"$2"}]}],null,"$L3"]}],"isPartial":"$@4","staleTime":"$5","varyParams":null},{"rsc":"$L6","isPartial":"$@7","staleTime":"$5","varyParams":null},{"rsc":"$L8","isPartial":"$@9","staleTime":"$5","varyParams":"$a"},{"rsc":"$Lb","isPartial":"$@c","staleTime":"$5","varyParams":"$a"},{"rsc":"$Ld","isPartial":"$@e","staleTime":"$5","varyParams":null}],"isUpgradeableISRFallback":false,"a":"$@f","rootVaryParams":null,"needsRuntimeRequest":"$@10"}
+11:I[97367,["/mimicore-app/_next/static/chunks/1mpnoxox0-4cg.js"],"OutletBoundary"]
+12:"$Sreact.suspense"
+14:I[97367,["/mimicore-app/_next/static/chunks/1mpnoxox0-4cg.js"],"ViewportBoundary"]
 15:I[97367,["/mimicore-app/_next/static/chunks/1mpnoxox0-4cg.js"],"MetadataBoundary"]
 16:I[39756,["/mimicore-app/_next/static/chunks/1mpnoxox0-4cg.js"],"default"]
 17:I[37457,["/mimicore-app/_next/static/chunks/1mpnoxox0-4cg.js"],"default"]
 18:I[22016,["/mimicore-app/_next/static/chunks/1mpnoxox0-4cg.js"],""]
-:HL["/mimicore-app/_next/static/chunks/0v-erq-nvh9zl.css","style"]
-5:null
-9:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
-a:["$","div",null,{"hidden":true,"children":["$","$L15",null,{"children":["$","$4",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Mimicore — Clone. Change. Create."}],["$","meta","1",{"name":"description","content":"Offline AI voice platform by Ribanix Labs: real-time voice changer, instant voice cloning and text-to-speech that run entirely on your PC."}]]}]}]}]
-c:["$","$1","c",{"children":[null,["$","$L16",null,{"parallelRouterKey":"children","template":["$","$L17",null,{}]}]]}]
-f:["$","$1","c",{"children":[null,["$","$L16",null,{"parallelRouterKey":"children","template":["$","$L17",null,{}]}]]}]
-11:["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/mimicore-app/_next/static/chunks/0v-erq-nvh9zl.css","precedence":"next"}],["$","script","script-0",{"src":"/mimicore-app/_next/static/chunks/1mpnoxox0-4cg.js","async":true}]],["$","html",null,{"lang":"en","children":["$","body",null,{"children":[["$","header",null,{"className":"nav","children":[["$","$L18",null,{"href":"/","className":"brand","children":["Mimicore",["$","span",null,{"children":"™"}]]}],["$","nav",null,{"children":[["$","a",null,{"href":"#features","children":"Features"}],["$","a",null,{"href":"#models","children":"Models"}],["$","a",null,{"href":"#pricing","children":"Pricing"}],["$","a",null,{"href":"#download","className":"cta","children":"Download"}]]}]]}],["$","$L16",null,{"parallelRouterKey":"children","template":["$","$L17",null,{}],"notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]]}],["$","footer",null,{"children":["© 2026 Ribanix Labs · ",["$","$L18",null,{"href":"/legal/acceptable-use/","children":"Acceptable use"}]," · ",["$","$L18",null,{"href":"/legal/eula/","children":"License"}]," · ",["$","$L18",null,{"href":"/legal/privacy/","children":"Privacy"}]," · ",["$","a",null,{"href":"mailto:ribanixlabs@zohomail.in","children":"ribanixlabs@zohomail.in"}]," · ",["$","a",null,{"href":"https://github.com/AnonymousAnny/mimicore-app/issues/new?template=support.yml","children":"Report a bug"}]]}]]}]}]]}]
-7:300
-14:true
-7:C
-13:0
-b:"$undefined"
-d:"$undefined"
-10:"$undefined"
-12:"$undefined"
-6:"$undefined"
+:HL["/mimicore-app/_next/static/chunks/2k6lyunarct6t.css","style"]
+3:["$","$L11",null,{"children":["$","$12",null,{"name":"Next.MetadataOutlet","children":"$@13"}]}]
+6:["$","$1","h",{"children":[null,["$","$L14",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","div",null,{"hidden":true,"children":["$","$L15",null,{"children":["$","$12",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Mimicore — Clone. Change. Create."}],["$","meta","1",{"name":"description","content":"Offline AI voice platform by Ribanix Labs: real-time voice changer, instant voice cloning and text-to-speech that run entirely on your PC."}]]}]}]}],null]}]
+8:["$","$1","c",{"children":[null,["$","$L16",null,{"parallelRouterKey":"children","template":["$","$L17",null,{}]}]]}]
+b:["$","$1","c",{"children":[null,["$","$L16",null,{"parallelRouterKey":"children","template":["$","$L17",null,{}]}]]}]
+d:["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/mimicore-app/_next/static/chunks/2k6lyunarct6t.css","precedence":"next"}],["$","script","script-0",{"src":"/mimicore-app/_next/static/chunks/1mpnoxox0-4cg.js","async":true}]],["$","html",null,{"lang":"en","children":["$","body",null,{"children":[["$","header",null,{"className":"nav","children":[["$","$L18",null,{"href":"/","className":"brand","children":["Mimicore",["$","span",null,{"children":"™"}]]}],["$","nav",null,{"children":[["$","a",null,{"href":"/mimicore-app/#features","children":"Features"}],["$","a",null,{"href":"/mimicore-app/#models","children":"Models"}],["$","a",null,{"href":"/mimicore-app/#pricing","children":"Pricing"}],["$","$L18",null,{"href":"/account/","children":"Account"}],["$","a",null,{"href":"/mimicore-app/#download","className":"cta","children":"Download"}]]}]]}],["$","$L16",null,{"parallelRouterKey":"children","template":["$","$L17",null,{}],"notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]]}],["$","footer",null,{"children":["© 2026 Ribanix Labs · ",["$","$L18",null,{"href":"/legal/acceptable-use/","children":"Acceptable use"}]," · ",["$","$L18",null,{"href":"/legal/eula/","children":"License"}]," · ",["$","$L18",null,{"href":"/legal/privacy/","children":"Privacy"}]," · ",["$","a",null,{"href":"mailto:ribanixlabs@zohomail.in","children":"ribanixlabs@zohomail.in"}]," · ",["$","a",null,{"href":"https://github.com/AnonymousAnny/mimicore-app/issues/new?template=support.yml","children":"Report a bug"}]]}]]}]}]]}]
+13:null
+10:true
+5:300
+5:C
+f:0
+7:"$undefined"
+9:"$undefined"
+c:"$undefined"
+e:"$undefined"
+4:"$undefined"
