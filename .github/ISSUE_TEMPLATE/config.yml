@@ -1,10 +1,10 @@
 blank_issues_enabled: false
 contact_links:
   - name: Website
-    url: https://anonymousanny.github.io/mimicore-app/
+    url: https://ribanixlabs.github.io/mimicore-app/
     about: Features, plans and download
   - name: Buy a license
-    url: https://anonymousanny.github.io/mimicore-app/#pricing
+    url: https://ribanixlabs.github.io/mimicore-app/#pricing
     about: Pro and Studio subscriptions; the key arrives by email
   - name: Email support (billing, licenses, private matters)
     url: mailto:ribanixlabs@zohomail.in
