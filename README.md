@@ -2,11 +2,13 @@
 
 # Mimicore™ — Clone. Change. Create.
 
-**AI voice studio for Windows by Ribanix Labs.** Live voice changer · instant voice cloning · your own trained voices ·
-28 free voice effects · text-to-speech in 23 languages. All voice processing runs on your PC.
+**The private AI voice studio for Windows, by Ribanix Labs.**
+Live voice changer · instant voice cloning · trained voices · video dubbing · 28 free voice effects ·
+text-to-speech in 23 languages · soundboard. Your voice, your device, your cloud. Never ours.
 
 **[⬇ Download for Windows](https://github.com/ribanixlabs/mimicore-app/releases/latest/download/Mimicore-setup.exe)** ·
 [Website](https://ribanixlabs.github.io/mimicore-app/) ·
+[User guide](#-user-guide) ·
 [Account & Pro](https://ribanixlabs.github.io/mimicore-app/account/) ·
 [Release notes](https://github.com/ribanixlabs/mimicore-app/releases) ·
 [Report a bug](https://github.com/ribanixlabs/mimicore-app/issues/new?template=support.yml)
@@ -17,31 +19,270 @@
 
 | | |
 |---|---|
-| 🎙️ **Live voice changer** | Talk in your voices in Discord, Zoom, OBS and games. Trained voices are auto-tuned to your PC (~0.3 s delay). One-click virtual microphone (VB-CABLE) setup. |
-| ⚡ **Instant voice cloning** | A new voice from 10–20 seconds of speech. Low / Medium / High quality, all real-time. |
-| 🧠 **Train your own voice** | RVC v2 training on your NVIDIA GPU from 10–30 minutes of recordings; the best checkpoint is picked automatically. |
-| 🎛️ **28 voice effects** | Robot, demon, chipmunk, radio, cave and more — free, instant, on any PC, no download. |
-| 🗣️ **Text to speech** | Speak typed text live into calls or save it to files, in any of your voices. 23 languages, emotion control. |
-| 🔒 **Private by design** | Recording, cloning, training and conversion run locally. Your audio never leaves your device. |
+| 🎙️ **Live voice changer** | Talk in any voice in Discord, Zoom, OBS and games. Trained voices are auto-tuned to your PC (about 0.3 s delay). One-click virtual microphone setup. |
+| ⚡ **Instant voice cloning** | A new voice from 10–20 seconds of speech. Background noise is removed automatically. |
+| 🧠 **Train your own voice** | The closest likeness, from 10–30 minutes of recordings. Train on your NVIDIA GPU or **free in the cloud** in your own Google account. Same trainer, same quality. |
+| 🎯 **Calibrate to your voice** | Read one sentence and Mimicore matches a trained voice's pitch and noise gate to you. The settings are remembered per voice. |
+| 🎬 **Dub a video** | Turn a video's speech into another language in your own voice, fully offline. You get a timed WAV track and SRT subtitles. |
+| 🗣️ **Text to speech** | Speak typed text live into calls or save it to files, in any of your voices. 23 languages and emotion control. |
+| 🖼️ **Voice gallery and mixer** | 19 original ready-made voices, or blend two voices into a new one that's yours alone. |
+| 🎛️ **28 voice effects** | Robot, demon, chipmunk, radio, cave and more. Free and instant on any PC; you can layer them on any voice. |
+| 🔊 **Soundboard** | Built-in sounds plus your own clips, played straight into your mic. |
+| ⌨️ **Hotkeys and push-to-talk** | Start/stop, push-to-talk, mute and switch voices from inside any game. |
+| 🌐 **9 languages** | Use the app in English, हिन्दी, Español, Português, Français, Deutsch, Русский, 日本語 or Bahasa Indonesia. |
+| 🔒 **Private by design** | Everything runs on your PC. Optional cloud training uses only your own Google Drive and Colab. We never receive your recordings. |
 
 ## Plans
 
-**Free** — every feature, 30 minutes of voice time a day plus a daily bonus on the website. Effects and training never
-use minutes. **Pro** — unlimited, ₹99/month (UPI autopay, cards, netbanking; cancel any time).
+**Free:** every feature, with 30 minutes of voice time a day plus a daily bonus on the website. Effects, the soundboard,
+training and the gallery never use minutes.
+
+**Pro:** unlimited, ₹99/month (UPI autopay, cards or netbanking; cancel any time).
 
 ## Requirements
 
-Windows 10/11 64-bit · DirectX 12 graphics card recommended (NVIDIA, AMD or Intel; effects run on any PC) · voice
-training needs an NVIDIA GTX 16 / RTX 20 series or newer with 4 GB+. Pick a quality tier on first run (Fast 1.1 GB,
-Balanced 1.3 GB, Studio 1.8 GB). The app updates itself.
+- Windows 10/11, 64-bit.
+- A DirectX 12 graphics card is recommended (NVIDIA, AMD or Intel). Effects run on any PC.
+- Training on your PC needs an NVIDIA GTX 16 / RTX 20 series card or newer with 4 GB+. Any PC can train in the cloud.
+- Pick a quality tier on first run: Fast 1.1 GB, Balanced 1.3 GB or Studio 1.8 GB. The Dubbing add-on is 3.2 GB.
+- The app updates itself.
 
-## Responsible use
+# 📖 User guide
 
-Clone only your own voice or voices you have permission to use. Mimicore records spoken consent and marks generated
-files as AI-generated. See the [Acceptable Use Policy](https://ribanixlabs.github.io/mimicore-app/legal/acceptable-use/),
-[License](https://ribanixlabs.github.io/mimicore-app/legal/eula/) and [Privacy Policy](https://ribanixlabs.github.io/mimicore-app/legal/privacy/).
+Everything you need to go from download to talking, streaming and creating in any voice.
+
+- [1. Install and first start](#1-install-and-first-start)
+- [2. Set up the virtual microphone](#2-set-up-the-virtual-microphone)
+- [3. Go live](#3-go-live)
+- [4. Your voices](#4-your-voices)
+- [5. Voice effects](#5-voice-effects)
+- [6. Speak: text to speech](#6-speak-text-to-speech)
+- [7. Dub a video](#7-dub-a-video)
+- [8. Soundboard](#8-soundboard)
+- [9. Hotkeys and push-to-talk](#9-hotkeys-and-push-to-talk)
+- [10. Settings](#10-settings)
+- [11. Use cases: step-by-step recipes](#11-use-cases-step-by-step-recipes)
+- [12. Troubleshooting](#12-troubleshooting)
+- [13. Privacy and responsible use](#13-privacy-and-responsible-use)
+
+## 1. Install and first start
+
+1. Download **Mimicore-setup.exe** from the [latest release](https://github.com/ribanixlabs/mimicore-app/releases/latest/download/Mimicore-setup.exe) and run it. It installs for your Windows user only and needs no admin rights.
+2. If Windows shows "Windows protected your PC", click **More info › Run anyway**. Mimicore is new and not yet code-signed; every update is still signed and verified by the app.
+3. Read and accept the terms. You must be 18 or older and clone only your own voice or voices you have permission to use.
+4. Choose a **quality tier**. It downloads once and every tier speaks 23 languages:
+   - **Fast** (about 1.1 GB): lowest delay and graphics memory, best for gaming and low-spec PCs.
+   - **Balanced** (about 1.3 GB): the recommended choice for most PCs.
+   - **Studio** (about 1.8 GB): the most polished speech and files, about 3× slower.
+5. **Sign in** with Google, Discord or email. The free plan includes 30 minutes of voice time every day, plus a daily bonus on the website.
+6. A short tour on the **Live** page shows where everything is. The 28 voice effects work right away, even before a model finishes downloading.
+
+## 2. Set up the virtual microphone
+
+The virtual microphone lets Discord, Zoom, OBS and games hear your changed voice. You set it up once.
+
+1. Open **Live › Output › Set up virtual mic**. Mimicore downloads the free **VB-CABLE** driver from vb-audio.com, checks its signature and installs it. Click **Yes** when Windows asks.
+2. If Windows asks for a restart, restart and open Mimicore again. The cable is selected automatically.
+3. In the other app, choose **CABLE Output (VB-Audio Virtual Cable)** as the microphone:
+   - **Discord:** User Settings › Voice & Video › Input Device. Turn off Discord's own Noise Suppression (Krisp) and Echo Cancellation, because they fight the changed voice.
+   - **OBS:** add an **Audio Input Capture** source and select CABLE Output.
+   - **Zoom / Teams / Meet:** Settings › Audio › Microphone.
+   - **Games:** set the in-game voice input device. If the game has no choice, set CABLE Output as the Windows default recording device.
+4. Turn on **Hear myself** to listen to your new voice. Use headphones so the microphone doesn't pick up the speakers.
+
+## 3. Go live
+
+1. On **Live**, pick a voice or effect from the list and press the big **Start** button.
+2. Speak. The status line shows the **delay**, the processing time per block and any **glitches**.
+3. Instant voices have a **Quality** switch:
+   - **Low** (about 0.35 s): quickest reaction, for gaming.
+   - **Medium** (about 0.45 s): recommended.
+   - **High** (about 0.5 s): most natural, for streams and recordings.
+4. Trained voices are **auto-tuned** to your PC for the lowest delay it can sustain (about 0.3 s on a mid-range GPU).
+
+Controls on the Live page:
+- **Mute** silences your microphone without stopping the voice, so unmuting is instant.
+- **Original-voice test (bypass)** passes your real voice through, to check levels.
+- **Add an effect** layers any effect on top of your voice: radio, cave, robot and more.
+- **Noise suppression** removes background noise (on by default).
+- **Automatic level** makes quiet microphones louder (on by default).
+- **Noise gate** (Off / Light / Medium / Strong) silences everything between your words: keyboard, fan, breathing.
+- **Voice tuning** (trained voices only) has **Pitch** (in semitones; +12 is one octave up) and **Voice strength** (how strongly the sound is pulled toward the trained voice). Both apply instantly.
+- **🎯 Calibrate to my voice** (trained voices only): read one sentence and Mimicore measures your pitch and your room. It then sets the pitch and noise gate for the closest match. The settings are saved for that voice and load whenever you pick it.
+
+If the status shows **Struggling**, your PC can't keep up. Close other programs that use the graphics card, choose **Low** quality, or switch to the **Fast** tier.
+
+## 4. Your voices
+
+Open **Voices & effects**.
+
+### Instant voice (10–20 seconds)
+1. Click **+ Instant voice** and give the voice a name.
+2. Choose whose voice it is: your own, or someone who has given you permission.
+3. Record about 15–20 seconds of natural, continuous speech in a quiet room, or import a clean recording. Background noise is removed automatically.
+4. For someone else's voice, they record a short spoken consent statement. Mimicore checks that it's the same person.
+5. Click **Create voice**. It's ready in under a minute and works live, in Speak and in Dub.
+
+### Voice gallery
+Click **Get the voice gallery (27 MB)** once, then press ▶ to hear the voices and **Add to my voices** to use one. There are 19 original voices, and each is a blend of two speakers, so none copies a real person.
+
+### Mix voices
+**Mix voices…** blends two of your instant voices into a brand-new voice. Move the slider between A and B and press **Create mix**. It's great for characters and for a voice that is yours alone.
+
+### Train a voice (closest likeness)
+Training makes the most faithful copy of a voice from 10–30 minutes of clean recordings of one person.
+
+- **On this PC** needs an NVIDIA graphics card (GTX 16 / RTX 20 series or newer, 4 GB+). Install the **Voice Training** add-on when asked, add your recordings, choose a quality and click **Start training**:
+  - Quick test: about 10–20 minutes.
+  - Good (recommended): about 25–50 minutes.
+  - Best: about 1–2 hours.
+- **Cloud (free)** works on any PC. It trains on a free Google Colab GPU in **your own Google account**, with the same trainer and the same quality:
+  1. Click **Connect Google Drive** and allow access. Mimicore can see only the files it creates.
+  2. Add your recordings, choose a quality and click **Upload & open Colab**.
+  3. In the Colab tab, press **▶**, click **Run anyway**, and allow Google Drive access.
+  4. Keep the Colab tab open. Mimicore shows the progress and installs the voice automatically when it's done. The recordings are then moved to your Drive trash, unless you chose to keep them.
+
+  You can also start cloud training from the [website](https://ribanixlabs.github.io/mimicore-app/train/).
+
+### Import RVC voices
+**Import RVC voices…** adds existing RVC v2 voices (a folder with `.pth`/`.onnx` and `.index`) that you have the rights to use.
+
+### Other actions
+- **▶ Preview** plays a sample.
+- **Convert a file…** turns a recording into that voice.
+- **Rename** and **Delete** manage the voice.
+
+## 5. Voice effects
+
+28 classic effects (Robot, Demon, Chipmunk, Radio, Cave, Cathedral, 8-bit and more) run instantly on the CPU. They're free and use no credits.
+
+- Press ▶ to hear an effect, then **Use** to pick it for Live.
+- **Apply to a file** processes a recording.
+- To layer an effect on top of a cloned or trained voice, use **Live › Add an effect**.
+
+## 6. Speak: text to speech
+
+1. Type or paste text, or load a `.txt` file.
+2. Pick a voice and a language (23 languages, including Hindi, Spanish, Japanese, Arabic and Chinese).
+3. Adjust **Emotion** and **Variation** if you like.
+4. Choose where it goes:
+   - **Speak now** plays it on your speakers and/or the virtual microphone, so people in your call hear it. A copy is saved.
+   - **Save to file** renders a WAV.
+
+Trained voices speak through the default voice, converted with the pitch matched automatically. Files are marked as AI-generated in their metadata.
+
+## 7. Dub a video
+
+Turn a video's speech into another language, spoken in your voice. It runs fully offline.
+
+1. Install the free **Dubbing** add-on (Settings › Models & add-ons, about 3.2 GB) once.
+2. Open **Dub a video**, choose a file (MP4, MOV, MKV, M4A, MP3 or WAV), the spoken language (or **Detect automatically**), the target language and a voice.
+3. Set **Original audio**: keep some of the original under the dub for music and background sounds, or remove it for a clean voice track.
+4. Click **Dub it**. Mimicore transcribes, translates sentence by sentence, speaks each line in your voice and fits each line to its original timing.
+5. You get a **WAV** audio track and an **SRT** subtitle file. Put the audio on the video in any editor (CapCut, Premiere, DaVinci Resolve, Clipchamp) and add the subtitles if you like.
+
+Dub only content you have the rights to.
+
+## 8. Soundboard
+
+- Air horn, applause, drum roll, sad trombone and more are built in.
+- **Add sounds** to bring in your own clips: MP3, WAV, OGG, FLAC or M4A up to 5 minutes, as many as you like.
+- Click a tile to play it into the virtual microphone. Turn on **Also play on my speakers** to hear it yourself.
+- Give each sound a hotkey, set volumes in **Edit**, and drag tiles to reorder them.
+- Sounds play even when the live voice is off.
+
+## 9. Hotkeys and push-to-talk
+
+**Settings › Hotkeys**. Click a box, then press a key or combination. Hotkeys work while a game or another app has focus.
+
+| Action | What it does |
+|---|---|
+| Start / stop the live voice | Toggle the voice changer |
+| Push-to-talk (hold) | When set, your mic is silent unless you hold this key |
+| Mute / unmute microphone | Toggle mute |
+| Original voice on / off | Toggle the bypass |
+| Next / previous voice or effect | Cycle through your voices and effects |
+| Switch straight to a voice | One key per favourite voice (its calibration comes with it) |
+| Stop all soundboard sounds | Silence the soundboard |
+
+Use combinations (Ctrl + Alt + …) or keys you don't use elsewhere (F7–F12, numpad): a bound key is reserved for Mimicore while it runs. A short tone confirms each hotkey; you can turn it off.
+
+## 10. Settings
+
+- **Account:** credits left, **Go Pro** (₹99/month, unlimited), earn credits on the website, sign out.
+  - Uses credits (1 credit = 1 minute): live voice, Speak, file conversion and dubbing.
+  - Free: effects, the soundboard, training and the gallery.
+- **Hotkeys:** see section 9.
+- **Models & add-ons:** add or remove quality tiers, Trained voices (RVC v2), Voice Training and Dubbing.
+- **Appearance & language:** dark, light or match Windows. The interface is available in English, हिन्दी, Español, Português, Français, Deutsch, Русский, 日本語 and Bahasa Indonesia.
+- **Updates:** Mimicore checks automatically and can download updates in the background. You choose when to restart.
+- **Processing:** pick the graphics card. Any DirectX 12 card works: NVIDIA, AMD or Intel.
+- **Cloud training:** see which Google account is connected, or disconnect it.
+- **Your data:** open the data folder, and optionally **Send error reports** (off by default; never includes audio, voices or text).
+
+## 11. Use cases: step-by-step recipes
+
+### Gaming with friends on Discord
+1. Set up the virtual mic (section 2) and select **CABLE Output** in Discord.
+2. Pick a voice (an instant voice on **Low** quality, a trained voice, or an effect) and press **Start**.
+3. Set a **Push-to-talk** key and a **Start / stop** hotkey.
+4. Add soundboard clips with hotkeys for instant reactions.
+
+### Streaming and VTubing with OBS
+1. In OBS, add **Audio Input Capture › CABLE Output**.
+2. Bind **Switch straight to a voice** hotkeys for each character, plus **Mute**.
+3. Use **Add an effect** (Radio, Cave, Robot) for scenes, and the soundboard for alerts and memes.
+
+### Localise your YouTube videos and Shorts
+1. Clone your own voice (an instant voice, or train one for the closest likeness).
+2. **Dub a video** into Hindi, Spanish, Portuguese and more, all in your own voice.
+3. Replace the audio track in your editor and upload the SRT as subtitles.
+
+### Voiceovers, narration and audiobooks
+1. Install the **Studio** tier for the most polished speech.
+2. In **Speak**, paste your script, pick your voice and language, and choose **Save to file**.
+3. Long texts are rendered sentence by sentence.
+
+### Private, anonymous calls
+1. Pick a **gallery voice** or a mix, so the voice belongs to no real person.
+2. Select CABLE Output in Zoom, Teams or Discord.
+3. Turn on noise suppression and a **Light** noise gate for a clean sound.
+
+### Role-play, D&D and characters
+1. Create characters with the **mixer** and **effects** (Giant, Ghost, Elf, Dark Lord…).
+2. Bind one hotkey per character and switch mid-sentence.
+
+### Your own voice, typed
+For people who can't speak at times (illness, a sore throat, quiet places): record an instant voice while you can. **Speak** then reads typed text aloud in your own voice, live into a call.
+
+### Speak another language in your own voice
+Type in Spanish, Japanese or Hindi in **Speak**. Your cloned voice says it with natural pronunciation, which is great for presentations and practice.
+
+## 12. Troubleshooting
+
+| Problem | Fix |
+|---|---|
+| Others can't hear me | Check that the voice is started, the **Output › Virtual mic** isn't Off, and the other app's microphone is **CABLE Output**. |
+| I hear an echo or howling | Use headphones, or turn off **Hear myself**. |
+| The voice sounds robotic or glitchy | Close other apps that use the graphics card, choose **Low** quality or the **Fast** tier, and check that Settings › Processing uses your best card. |
+| Too much delay | Use **Low** quality; trained voices have the lowest delay. Bluetooth headsets add their own delay, so wired is better. |
+| My mic is too quiet | Keep **Automatic level** on, or raise the mic level in Windows sound settings. **Calibrate** shows warnings for quiet or clipping mics. |
+| Keyboard or fan noise comes through | Turn on **Noise suppression** and set the **Noise gate** to Medium. |
+| Training is greyed out | Training on the PC needs an NVIDIA card. Use **Cloud (free)** instead. |
+| Colab says no GPU is available | Free GPUs are limited at busy times. Try again later; training continues from the last checkpoint. |
+| The virtual mic doesn't appear | Restart Windows after the VB-CABLE install, then open Mimicore again. |
+| Out of credits | Credits refill every day. Claim the daily bonus on the website, or go Pro for unlimited. |
+| Something else | Settings › Your data › **Open data folder** has the logs (`logs\mimicore.log`). [Report a bug](https://github.com/ribanixlabs/mimicore-app/issues/new?template=support.yml) and attach it. |
+
+## 13. Privacy and responsible use
+
+- **Your voice, your device, your cloud. Never ours.** Live voice, cloning, effects, speech, dubbing and training on your PC all run locally. Microphone audio is processed in memory and never stored or sent.
+- Optional cloud training uses only **your own** Google Drive and Colab. Mimicore can see only the files it creates there.
+- We store only your account email, plan and credit balance. Error reports are off unless you turn them on.
+- Clone only your own voice or voices you have permission to use. Never use a cloned voice to deceive, defraud or impersonate anyone. Generated files are marked as AI-generated.
+- Full texts: [Acceptable Use](https://ribanixlabs.github.io/mimicore-app/legal/acceptable-use/) · [License](https://ribanixlabs.github.io/mimicore-app/legal/eula/) · [Privacy](https://ribanixlabs.github.io/mimicore-app/legal/privacy/).
 
 ---
 
-This repository hosts releases, automatic updates, model downloads and support for Mimicore. The source code is
-private. Support: ribanixlabs@zohomail.in
+This repository hosts releases, automatic updates, model downloads, the open cloud-training notebook
+([`colab/`](colab/)) and support for Mimicore. The app's source code is private. Support: ribanixlabs@zohomail.in
