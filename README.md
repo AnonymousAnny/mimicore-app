@@ -34,10 +34,13 @@ text-to-speech in 23 languages · soundboard. Your voice, your device, your clou
 
 ## Plans
 
-**Free:** every feature, with 30 minutes of voice time a day plus a daily bonus on the website. Effects, the soundboard,
-training and the gallery never use minutes.
+**Trial:** 7 days of Pro for every new account, no card needed.
 
-**Pro:** unlimited, ₹99/month (UPI autopay, cards or netbanking; cancel any time).
+**Free:** 20 minutes of live voice a day, built-in and gallery voices, all 28 effects and the soundboard (no limits), and short
+Speak / Dub clips (30 s).
+
+**Pro:** unlimited use plus cloning, mixing, importing and training voices. $6.99/month, $49.99/year or $89 lifetime
+(₹149 / ₹999 / ₹2,999 in India). Secure payments by Razorpay.
 
 ## Requirements
 
@@ -74,7 +77,7 @@ Everything you need to go from download to talking, streaming and creating in an
    - **Fast** (about 1.1 GB): lowest delay and graphics memory, best for gaming and low-spec PCs.
    - **Balanced** (about 1.3 GB): the recommended choice for most PCs.
    - **Studio** (about 1.8 GB): the most polished speech and files, about 3× slower.
-5. **Sign in** with Google, Discord or email. The free plan includes 30 minutes of voice time every day, plus a daily bonus on the website.
+5. **Sign in** with Google, Discord or email. New accounts get a 7-day Pro trial with no card. After that the free plan includes 20 minutes of live voice every day.
 6. A short tour on the **Live** page shows where everything is. The 28 voice effects work right away, even before a model finishes downloading.
 
 ## 2. Set up the virtual microphone
@@ -154,7 +157,7 @@ Training makes the most faithful copy of a voice from 10–30 minutes of clean r
 
 ## 5. Voice effects
 
-28 classic effects (Robot, Demon, Chipmunk, Radio, Cave, Cathedral, 8-bit and more) run instantly on the CPU. They're free and use no credits.
+28 classic effects (Robot, Demon, Chipmunk, Radio, Cave, Cathedral, 8-bit and more) run instantly on the CPU. They're free with no time limit.
 
 - Press ▶ to hear an effect, then **Use** to pick it for Live.
 - **Apply to a file** processes a recording.
@@ -209,9 +212,10 @@ Use combinations (Ctrl + Alt + …) or keys you don't use elsewhere (F7–F12, n
 
 ## 10. Settings
 
-- **Account:** credits left, **Go Pro** (₹99/month, unlimited), earn credits on the website, sign out.
-  - Uses credits (1 credit = 1 minute): live voice, Speak, file conversion and dubbing.
-  - Free: effects, the soundboard, training and the gallery.
+- **Account:** your plan (Free, Pro trial, Pro or Lifetime), **See Pro plans**, sign out.
+  - Free plan: 20 live minutes a day, short Speak / Dub / conversion clips (30 s), no cloning, mixing, importing or training.
+  - Always free: effects, the soundboard, the gallery and built-in voices.
+  - Pro (trial, monthly, annual or lifetime): everything unlimited.
 - **Hotkeys:** see section 9.
 - **Models & add-ons:** add or remove quality tiers, Trained voices (RVC v2), Voice Training and Dubbing.
 - **Appearance & language:** dark, light or match Windows. The interface is available in English, हिन्दी, Español, Português, Français, Deutsch, Русский, 日本語 and Bahasa Indonesia.
@@ -271,14 +275,15 @@ Type in Spanish, Japanese or Hindi in **Speak**. Your cloned voice says it with 
 | Training is greyed out | Training on the PC needs an NVIDIA card. Use **Cloud (free)** instead. |
 | Colab says no GPU is available | Free GPUs are limited at busy times. Try again later; training continues from the last checkpoint. |
 | The virtual mic doesn't appear | Restart Windows after the VB-CABLE install, then open Mimicore again. |
-| Out of credits | Credits refill every day. Claim the daily bonus on the website, or go Pro for unlimited. |
+| "Used today's free live minutes" | Free live minutes refill every day. Go Pro for unlimited use. |
+| "…is a Pro feature" | Cloning, mixing, importing and training need Pro or the 7-day trial (Settings › Account). |
 | Something else | Settings › Your data › **Open data folder** has the logs (`logs\mimicore.log`). [Report a bug](https://github.com/ribanixlabs/mimicore-app/issues/new?template=support.yml) and attach it. |
 
 ## 13. Privacy and responsible use
 
 - **Your voice, your device, your cloud. Never ours.** Live voice, cloning, effects, speech, dubbing and training on your PC all run locally. Microphone audio is processed in memory and never stored or sent.
 - Optional cloud training uses only **your own** Google Drive and Colab. Mimicore can see only the files it creates there.
-- We store only your account email, plan and credit balance. Error reports are off unless you turn them on.
+- We store only your account email and plan. Error reports are off unless you turn them on.
 - Clone only your own voice or voices you have permission to use. Never use a cloned voice to deceive, defraud or impersonate anyone. Generated files are marked as AI-generated.
 - Full texts: [Acceptable Use](https://ribanixlabs.github.io/mimicore-app/legal/acceptable-use/) · [License](https://ribanixlabs.github.io/mimicore-app/legal/eula/) · [Privacy](https://ribanixlabs.github.io/mimicore-app/legal/privacy/).
 
